@@ -1,0 +1,10 @@
+requests
+moviepy
+Pillow
+pytz
+python-dotenv
+pytrends
+tenacity
+flask
+httpx
+parsel
